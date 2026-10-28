@@ -941,16 +941,6 @@ The counts below are carried over from the supplied checklist and have not been 
 
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
 
-
-Information
-------------------
-
-Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
-
-License💀: [MIT License](https://opensource.org/licenses/MIT)
-
----
-
 ## 🔐 Responsible Learning
 
 Use these rooms and techniques only in the intended training environments or on systems you own or have explicit permission to test. Follow TryHackMe's rules and all applicable laws.
