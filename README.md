@@ -950,11 +950,7 @@ Use these rooms and techniques only in the intended training environments or on 
 Curated and formatted for the **jkx00** GitHub learning collection.
 
 - **GitHub:** [@jkx00](https://github.com/jkx00)
-- **Training platform:** [TryHackMe](https://tryhackme.com)
-
-## 📄 Credits & License
-
-The supplied source credits **Uttam Bodara** and references the MIT License. Verify the original repository's license and attribution requirements before redistributing this checklist.
+- **Training platform:** [TryHackMe](https://tryhackme.com/p/Mr.JK)
 
 <div align="center">
 
